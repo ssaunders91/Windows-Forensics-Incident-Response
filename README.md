@@ -3,12 +3,18 @@
 This repository contains my formal investigations and technical documentation for security rooms completed on **TryHackMe**. Each write-up focuses on methodology, tool output analysis, and the identification of **Indicators of Compromise (IOCs)**.
 
 ---
+## 📑 Lab Write-ups
 
-## 🕵️ Digital Forensics & Incident Response (DFIR)
+### 🛡️ Security Operations (SOC)
+* **[SOC Investigation: Operation Boogeyman](Phishing-Analysis-Boogeyman/README.md)**
+  * *Full-chain analysis of a phishing attack and DNS exfiltration.*
 
-### [Windows Forensic Investigation: Post-Compromise Analysis](./Windows-Forensics-Investigating-Windows/README.md)
-* **Lab Focus:** Investigating a compromised host to identify unauthorised "Guest1" administrative accounts and malicious scheduled tasks used for persistence.
-* **Tools Used:** Event Viewer, Registry Editor, Task Scheduler, and Command Line (CMD).
+### 🕵️ Digital Forensics (DFIR)
+* **[Windows Forensics: Investigating Windows](Windows-Forensics/README.md)**
+  * *Analysing unauthorised admin accounts and malicious persistence.*
+
+* **[Network Forensics: Wireshark Traffic Analysis](Network-Forensics/README.md)**
+  * *Identifying ICMP tunnelling and reverse shells in PCAP files.*
 
 ---
 
