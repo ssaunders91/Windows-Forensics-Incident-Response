@@ -6,14 +6,14 @@ This repository contains my formal investigations and technical documentation fo
 ## 📑 Lab Write-ups
 
 ### 🛡️ Security Operations (SOC)
-* **[SOC Investigation: Operation Boogeyman](Phishing-Analysis-Boogeyman/README.md)**
+* **[SOC Investigation: Operation Boogeyman](https://github.com/ssaunders91/Try-Hack-Me-Labs/blob/main/Phishing-Analysis-Boogeyman/README.md)**
   * *Full-chain analysis of a phishing attack and DNS exfiltration.*
 
 ### 🕵️ Digital Forensics (DFIR)
-* **[Windows Forensics: Investigating Windows](Windows-Forensics/README.md)**
+* **[Windows Forensics: Investigating Windows](https://github.com/ssaunders91/Try-Hack-Me-Labs/blob/main/Windows-Forensics/README.md)**
   * *Analysing unauthorised admin accounts and malicious persistence.*
 
-* **[Network Forensics: Wireshark Traffic Analysis](Network-Forensics/README.md)**
+* **[Network Forensics: Wireshark Traffic Analysis](https://github.com/ssaunders91/Try-Hack-Me-Labs/blob/main/Network-Forensics/README.md)**
   * *Identifying ICMP tunnelling and reverse shells in PCAP files.*
 
 ---
