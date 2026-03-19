@@ -74,7 +74,9 @@ I used **Registry Editor** and **Eric Zimmerman's Tools** to find traces of exec
 
 ---
 
-[⬅️ Back to Profile Hub](https://www.google.com/search?q=https://github.com/ssaunders91)
+[⬅️ Back to TryHackMe Hub](https://github.com/ssaunders91/Try-Hack-Me-Labs/tree/main)
+
+[⬅️ Back to Profile Hub](https://github.com/ssaunders91)
 
 -----
 
