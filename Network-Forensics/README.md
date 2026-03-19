@@ -69,3 +69,7 @@ The attacker used the established shell to locate a sensitive file named `secret
 > **Analyst Note:** To isolate the malicious ICMP traffic during the investigation, I utilised the following Wireshark display filter to find packets with unusually large data payloads:
 
 *This project was completed as part of the TryHackMe SOC Level 1 Path to demonstrate technical proficiency in network traffic analysis.*
+
+[⬅️ Back to Profile Hub](https://www.google.com/search?q=https://github.com/ssaunders91)
+
+-----
